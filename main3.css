@@ -1,0 +1,26 @@
+.display{
+  width:600px;
+  height:60px;
+  background-color:black;
+  text-align: right;
+  line-height: 60px;
+  font-size:30px;
+  color:white;
+}
+
+.box{
+  width:600px;
+  display: flex;
+  flex-wrap:wrap;
+}
+
+button{
+  width: 25%;
+  height:60px;
+  font-size:20px;
+}
+
+
+.reset,.result{
+  width:50%;
+}
